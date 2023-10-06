@@ -1,0 +1,667 @@
+.aSuperEarth {
+  position: absolute;
+  top: 259.88rem;
+  left: 0;
+  font-size: var(--font-size-181xl);
+  font-family: var(--font-londrina-outline);
+  background: linear-gradient(180deg, #6aff94 35.94%, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 164.56rem;
+  height: 11.06rem;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.desktop2Child,
+.groupIcon,
+.vectorIcon {
+  position: absolute;
+  top: 22.74rem;
+  left: 8.62rem;
+  width: 0.19rem;
+  height: 0.19rem;
+}
+.groupIcon,
+.vectorIcon {
+  left: 8.61rem;
+  width: 0.21rem;
+  height: 0.2rem;
+}
+.groupIcon {
+  top: 437.75rem;
+  left: -2rem;
+  width: 26.19rem;
+  height: 21rem;
+}
+.kepler22b,
+.solarSystemExploration {
+  position: relative;
+  display: inline-block;
+}
+.kepler22b {
+  line-height: 4.38rem;
+  background: linear-gradient(90deg, #6aff94, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 25.81rem;
+}
+.solarSystemExploration {
+  font-size: var(--font-size-71xl);
+  line-height: 6.25rem;
+  width: 51.69rem;
+}
+.title {
+  position: absolute;
+  top: 25.75rem;
+  left: 11.38rem;
+  width: 27.75rem;
+  height: 14.63rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.desktop2Child1,
+.lightIcon {
+  position: absolute;
+  top: 25.99rem;
+  left: 0;
+  width: 74.09rem;
+  height: 64.36rem;
+}
+.lightIcon {
+  top: 76.56rem;
+  width: 65.56rem;
+  height: 49.13rem;
+  object-fit: cover;
+}
+.earths,
+.mass {
+  align-self: stretch;
+  position: relative;
+}
+.earths {
+  font-size: var(--font-size-5xl);
+  line-height: 155%;
+  font-weight: 600;
+  font-family: var(--font-noto-serif-malayalam);
+  color: var(--dark-light-white);
+}
+.textBlock,
+.textBlock1 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.textBlock {
+  top: 5.75rem;
+  width: 7.5rem;
+}
+.textBlock1 {
+  top: 0;
+  width: 9.13rem;
+}
+.au {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 155%;
+  font-weight: 600;
+  font-family: var(--font-noto-serif-malayalam);
+  color: var(--dark-light-white);
+  display: inline-block;
+  height: 2.19rem;
+  flex-shrink: 0;
+}
+.textBlock2 {
+  top: 0;
+  left: 11.19rem;
+  width: 8.94rem;
+  height: 4rem;
+}
+.textBlock2,
+.textBlock3,
+.textBlock4,
+.textBlock5 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.textBlock3 {
+  top: 6rem;
+  left: 11.19rem;
+  width: 9.31rem;
+}
+.textBlock4,
+.textBlock5 {
+  left: 23.38rem;
+}
+.textBlock4 {
+  top: 0;
+}
+.textBlock5 {
+  top: 6rem;
+}
+.textBlockParent {
+  position: absolute;
+  top: 51.94rem;
+  left: 11.38rem;
+  width: 31.81rem;
+  height: 10rem;
+  font-size: var(--font-size-mini-5);
+  color: var(--color-mediumspringgreen-100);
+  font-family: var(--font-marko-one);
+}
+.menuIcon {
+  position: relative;
+  width: 1.69rem;
+  height: 1.69rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.r {
+  position: absolute;
+  top: 0;
+  left: 64.5rem;
+  width: 6.17rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welcomeToKepler22b {
+  margin: 0;
+}
+
+.exploringBeyondOur,
+.solarTitle3,
+.solarTitle4 {
+  position: absolute;
+  display: inline-block;
+}
+.solarTitle4 {
+  top: 0;
+  left: 51.69rem;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  width: 8.88rem;
+  height: 1.25rem;
+}
+.exploringBeyondOur {
+  top: 3.44rem;
+  left: 0.5rem;
+  font-size: var(--font-size-base);
+  letter-spacing: 2px;
+  color: var(--color-mediumspringgreen-100);
+  width: 37.13rem;
+}
+.header {
+  position: absolute;
+  top: 6.63rem;
+  left: 11.38rem;
+  width: 70.67rem;
+  height: 4.56rem;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-trispace);
+}
+.image7Icon {
+  position: absolute;
+  top: 17.38rem;
+  left: 44.44rem;
+  width: 45.56rem;
+  height: 48.76rem;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 153.69rem;
+  left: 79.56rem;
+  border-radius: var(--br-381xl);
+  background-color: var(--color-gray);
+  border: 10px solid var(--color-mediumspringgreen-200);
+  box-sizing: border-box;
+  width: 19.94rem;
+  height: 58.06rem;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.desktop2Child2,
+.desktop2Child3 {
+  position: absolute;
+  top: 141rem;
+  left: 13.63rem;
+  width: 8.63rem;
+  height: 8.38rem;
+}
+.desktop2Child3 {
+  top: 204.94rem;
+  left: 14.13rem;
+}
+.lineDiv {
+  top: 153.69rem;
+  width: 0;
+  height: 46.94rem;
+}
+.desktop2Child4,
+.lineDiv,
+.lineIcon {
+  position: absolute;
+  left: 17.94rem;
+}
+.desktop2Child4 {
+  top: 215.31rem;
+  width: 0;
+  height: 29.13rem;
+}
+.lineIcon {
+  top: 133.62rem;
+  width: 0.41rem;
+  height: 4.66rem;
+}
+.desktop2Child5,
+.desktop2Child6 {
+  position: absolute;
+  top: 259.69rem;
+  left: 17.52rem;
+  width: 0.57rem;
+  height: 34.88rem;
+}
+.desktop2Child6 {
+  top: 294.84rem;
+  left: 14.56rem;
+  width: 6.5rem;
+  height: 0.31rem;
+}
+.desktop2Child7,
+.rectangleIcon {
+  position: absolute;
+  top: 224.44rem;
+  left: 3.51rem;
+  border-radius: var(--br-xl);
+  width: 81.48rem;
+  height: 59.68rem;
+}
+.desktop2Child7 {
+  top: 179.56rem;
+  left: 2.25rem;
+  width: 81.86rem;
+  height: 60.4rem;
+}
+.aCosmicMarvelContainer,
+.inTheCosmic {
+  position: absolute;
+  top: 153.69rem;
+  left: 24.19rem;
+  font-size: var(--font-size-13xl);
+  line-height: 4.38rem;
+  font-family: var(--font-mandali);
+  display: inline-block;
+  width: 49.88rem;
+  height: 39.25rem;
+}
+.aCosmicMarvelContainer {
+  top: 220.31rem;
+  width: 51rem;
+  height: 15.75rem;
+}
+.desktop2Child8 {
+  position: absolute;
+  top: 248.75rem;
+  left: 13.69rem;
+  width: 8.63rem;
+  height: 8.38rem;
+}
+.kepler22bHarborsAn {
+  position: absolute;
+  top: 263.69rem;
+  left: 24.19rem;
+  font-size: var(--font-size-13xl);
+  line-height: 4.38rem;
+  font-family: var(--font-mandali);
+  display: inline-block;
+  width: 51.81rem;
+  height: 25.38rem;
+}
+.desktop2Child9 {
+  position: absolute;
+  top: 263.94rem;
+  left: 12.7rem;
+  border-radius: var(--br-381xl);
+  background-color: var(--color-gray);
+  border: 10px solid var(--color-mediumspringgreen-200);
+  box-sizing: border-box;
+  width: 7.07rem;
+  height: 29.83rem;
+  transform: rotate(89.32deg);
+  transform-origin: 0 0;
+}
+.desktop2Child10,
+.desktop2Child11 {
+  position: absolute;
+  top: 328.75rem;
+  left: 9.33rem;
+  width: 0.2rem;
+  height: 0.19rem;
+}
+.desktop2Child11 {
+  left: 9.31rem;
+  width: 0.21rem;
+  height: 0.2rem;
+}
+.desktop2Child12 {
+  position: absolute;
+  top: 116.94rem;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 78.82rem;
+  height: 60.34rem;
+}
+.aCosmicGem,
+.exploringASuperEarth {
+  position: absolute;
+  line-height: 4.38rem;
+  display: inline-block;
+  width: 47.56rem;
+  height: 11.63rem;
+}
+.exploringASuperEarth {
+  top: 140.13rem;
+  left: 25.09rem;
+  color: var(--color-mediumspringgreen-100);
+}
+.aCosmicGem {
+  top: 0;
+  left: 0;
+}
+.aCosmicGemInTheCygnusSkiWrapper,
+.atmosphereUnveilingCelestia {
+  position: absolute;
+  top: 204.06rem;
+  left: 27rem;
+  width: 47.56rem;
+  height: 11.63rem;
+  color: var(--color-mediumspringgreen-100);
+}
+.atmosphereUnveilingCelestia {
+  top: 248.56rem;
+  left: 27.63rem;
+  line-height: 4.38rem;
+  display: inline-block;
+}
+.desktop2Child13 {
+  position: absolute;
+  top: 59.44rem;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 90rem;
+  height: 77.93rem;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  width: 62.13rem;
+  height: 44.31rem;
+}
+.wantToTravel {
+  position: absolute;
+  top: 3.94rem;
+  left: 11.19rem;
+  font-size: var(--font-size-41xl);
+  line-height: 4.38rem;
+  display: inline-block;
+  font-family: var(--font-manrope);
+  background: linear-gradient(205.73deg, #fff, #838383 96.21%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 42.94rem;
+}
+.groupChild1,
+.groupChild2,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 30.25rem;
+  left: 7.13rem;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-dimgray);
+  width: 10.81rem;
+  height: 10.88rem;
+}
+.groupChild1,
+.groupChild2,
+.groupInner {
+  left: 19.19rem;
+}
+.groupChild1,
+.groupChild2 {
+  left: 31.25rem;
+}
+.groupChild2 {
+  left: 43.31rem;
+}
+.travelSpeed {
+  top: 0;
+  left: 0;
+  color: var(--color-mediumspringgreen-100);
+  display: inline-block;
+  width: 15.38rem;
+}
+.div2,
+.milesPerHour,
+.travelSpeed {
+  position: absolute;
+  letter-spacing: 2px;
+}
+.div2 {
+  top: 3.56rem;
+  left: 3rem;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  width: 8.69rem;
+}
+.milesPerHour {
+  top: 11rem;
+  left: 1.38rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-tomorrow);
+}
+.travelSpeedParent {
+  position: absolute;
+  top: 12.13rem;
+  left: 13.63rem;
+  width: 15.38rem;
+  height: 12.81rem;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-trispace);
+}
+.billionYears,
+.div3 {
+  position: absolute;
+  letter-spacing: 2px;
+}
+.div3 {
+  top: 3.56rem;
+  left: 4.94rem;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  width: 8.69rem;
+}
+.billionYears {
+  top: 11rem;
+  left: 1.75rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-tomorrow);
+}
+.travelTimeParent {
+  position: absolute;
+  top: 12.13rem;
+  left: 34.38rem;
+  width: 15.38rem;
+  height: 12.81rem;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-trispace);
+}
+.image11Icon {
+  position: absolute;
+  top: 31.56rem;
+  left: 46.31rem;
+  width: 4.5rem;
+  height: 4.56rem;
+  object-fit: cover;
+}
+.image10Icon,
+.image12Icon,
+.image8Icon {
+  position: absolute;
+  top: 32.56rem;
+  left: 8.88rem;
+  width: 7.25rem;
+  height: 2.94rem;
+  object-fit: cover;
+}
+.image10Icon,
+.image12Icon {
+  top: 31.56rem;
+  left: 33.25rem;
+  width: 6.94rem;
+  height: 5.13rem;
+}
+.image12Icon {
+  top: 30.25rem;
+  left: 20rem;
+  width: 8.5rem;
+  height: 7.25rem;
+}
+.bulletTrain,
+.car,
+.jet,
+.lightSpeed {
+  position: absolute;
+  letter-spacing: 2px;
+}
+.bulletTrain {
+  top: 36.81rem;
+  left: 22.81rem;
+  display: inline-block;
+  width: 5.13rem;
+}
+.car,
+.jet,
+.lightSpeed {
+  top: 37.5rem;
+  left: 11.13rem;
+}
+.jet,
+.lightSpeed {
+  left: 35.69rem;
+}
+.lightSpeed {
+  top: 37.06rem;
+  left: 46.88rem;
+  display: inline-block;
+  width: 5.19rem;
+  height: 2.5rem;
+}
+.vectorParent {
+  position: absolute;
+  top: 77.75rem;
+  left: 13.94rem;
+  width: 62.13rem;
+  height: 44.31rem;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-tomorrow);
+}
+.desktop2,
+.groupChild3 {
+  position: absolute;
+  width: 90rem;
+}
+.desktop2 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  height: 349.75rem;
+  overflow: hidden;
+}
+.groupChild3 {
+  top: -21.5rem;
+  left: -0.31rem;
+  height: 73.94rem;
+}
+.groupChild4 {
+  position: absolute;
+  top: 0;
+  left: 18.94rem;
+  width: 52.17rem;
+  height: 32.94rem;
+}
+.teamUfo,
+.unbelievablyFunnyObservers {
+  position: absolute;
+  letter-spacing: 0.15em;
+  display: inline-block;
+}
+.teamUfo {
+  top: 20.25rem;
+  left: 36.56rem;
+  width: 21.44rem;
+  height: 1.63rem;
+  -webkit-text-stroke: 1px #000;
+}
+.unbelievablyFunnyObservers {
+  top: 22.56rem;
+  left: 35.94rem;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-palanquin-dark);
+  color: var(--color-darkseagreen);
+  width: 22.69rem;
+  height: 3.81rem;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+}
+.groupParent {
+  position: absolute;
+  top: 297.31rem;
+  left: 0.31rem;
+  width: 90rem;
+  height: 52.44rem;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-orbitron);
+}
+.desktop2Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90.31rem;
+  height: 349.75rem;
+}
+.homeChild {
+  position: absolute;
+  top: 0;
+  left: 15.38rem;
+  border-radius: var(--br-xl);
+  width: 74.62rem;
+  height: 59.46rem;
+}
+.home {
+  position: relative;
+  background-color: var(--dark-light-white);
+  width: 100%;
+  height: 349.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--dark-light-white);
+  font-family: var(--font-manrope);
+}
